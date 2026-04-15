@@ -15,9 +15,8 @@ I have experience working with large datasets, structuring data, and building у
 - "Generation Python: Beginner Course" (Stepik)
 
 🎧 I follow industry content:
-- "Zaskul Python (Data Analytics)"
-- "Data Scientist Library"
-- podcasts: Podlodka Podcast, "Launch Tomorrow"
+- channels: Data Scientist Library, Zaskul Python (Data Analytics)
+- podcasts: Podlodka Podcast, Launch Tomorrow
 
 🎯 Goal:
 To grow as a BI Analyst and build clear and useful dashboards for business.
